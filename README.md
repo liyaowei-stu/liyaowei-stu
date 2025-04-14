@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yaowei Li, and you can call me Joey.
+- 👋 Hi, I’m Yaowei Li.
 - 🔭 I'm currently a second-year Ph.D. candidate in Peking University.
 - 🌱 I'm currently interested in Computer Vision, especially Diffusion/Flow Model, Image Generation/Editing and Video Generation/Editing.
 - 📫 Reach me by liyaowei01@gmail.com
