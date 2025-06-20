@@ -4,7 +4,7 @@
 - 📫 Reach me by liyaowei01@gmail.com
 
 
-[![Yaowei's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyaowei-stu)](https://github.com/anuraghazra/github-readme-stats)
+[![Yaowei's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyaowei-stu)]()
 
 
 <!--
